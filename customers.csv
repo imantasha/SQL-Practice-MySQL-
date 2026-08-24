@@ -1,0 +1,601 @@
+customer_id,first_name,last_name,email,city,country,segment,signup_date,age
+CUST00001,Carlos,Nair,carlos.nair282@example.com,Lucknow,India,Corporate,2025-02-27,32
+CUST00002,Krishna,Reddy,krishna.reddy914@example.com,Dubai,UAE,Enterprise,2025-02-25,23
+CUST00003,Ali,Zhang,ali.zhang96@example.com,Delhi,India,Corporate,2021-03-03,32
+CUST00004,Ming,Schmidt,ming.schmidt204@example.com,Lucknow,India,Enterprise,2024-02-24,44
+CUST00005,Kiara,Kim,kiara.kim829@example.com,Vancouver,Canada,Consumer,2022-07-24,66
+CUST00006,Ananya,Zhang,ananya.zhang160@example.com,New York,USA,Corporate,2022-07-24,66
+CUST00007,Robert,Reddy,robert.reddy100@example.com,Mumbai,India,Home Office,2023-02-18,40
+CUST00008,Omar,Miller,omar.miller748@example.com,Tokyo,Japan,Small Business,2021-03-30,52
+CUST00009,Sai,Chen,sai.chen301@example.com,Mumbai,India,Enterprise,2024-02-05,41
+CUST00010,Fatima,Williams,fatima.williams47@example.com,Singapore,Singapore,Corporate,2021-05-23,67
+CUST00011,Navya,Patel,navya.patel888@example.com,Sao Paulo,Brazil,Consumer,2022-04-22,42
+CUST00012,Anika,Park,anika.park167@example.com,Melbourne,Australia,Home Office,2023-01-18,40
+CUST00013,Aadhya,Davis,aadhya.davis664@example.com,Singapore,Singapore,Consumer,2024-10-31,56
+CUST00014,Carlos,Smith,carlos.smith251@example.com,Toronto,Canada,Corporate,2025-02-02,47
+CUST00015,David,Davis,david.davis705@example.com,Dublin,Ireland,Enterprise,2024-08-03,32
+CUST00016,Ana,Khan,ana.khan795@example.com,Seoul,South Korea,Consumer,2025-04-23,32
+CUST00017,Aditya,Khan,aditya.khan68@example.com,Chicago,USA,Corporate,2022-07-03,54
+CUST00018,Sofia,Khan,sofia.khan512@example.com,Pune,India,Small Business,2024-09-04,59
+CUST00019,Isabella,Das,isabella.das253@example.com,Jaipur,India,Enterprise,2021-10-13,52
+CUST00020,Pari,Muller,pari.muller409@example.com,Houston,USA,Home Office,2024-04-10,32
+CUST00021,Krishna,Costa,krishna.costa774@example.com,London,UK,Consumer,2021-07-06,25
+CUST00022,Ishaan,Smith,ishaan.smith433@example.com,Tokyo,Japan,Enterprise,2024-10-25,22
+CUST00023,David,Chen,david.chen542@example.com,Sydney,Australia,Home Office,2023-08-17,53
+CUST00024,Aarav,Nair,aarav.nair769@example.com,Dubai,UAE,Home Office,2024-01-05,67
+CUST00025,Maria,Ahmed,maria.ahmed446@example.com,Bengaluru,India,Corporate,2022-08-25,47
+CUST00026,Aarav,Miller,aarav.miller183@example.com,Manchester,UK,Enterprise,2025-04-10,24
+CUST00027,Carlos,Martinez,carlos.martinez520@example.com,Seoul,South Korea,Enterprise,2024-08-01,30
+CUST00028,Ishaan,Hassan,ishaan.hassan553@example.com,Paris,France,Enterprise,2021-11-27,18
+CUST00029,Omar,Khan,omar.khan115@example.com,London,UK,Home Office,2021-02-09,69
+CUST00030,Riya,Garcia,riya.garcia900@example.com,Delhi,India,Enterprise,2022-05-09,23
+CUST00031,Reyansh,Santos,reyansh.santos779@example.com,Seoul,South Korea,Enterprise,2021-05-22,67
+CUST00032,Krishna,Iyer,krishna.iyer970@example.com,Dubai,UAE,Enterprise,2023-09-01,28
+CUST00033,Pari,Pereira,pari.pereira434@example.com,Sao Paulo,Brazil,Corporate,2024-05-27,52
+CUST00034,Mateo,Williams,mateo.williams409@example.com,Singapore,Singapore,Home Office,2022-10-01,46
+CUST00035,Hana,Kim,hana.kim231@example.com,Bengaluru,India,Consumer,2022-05-23,39
+CUST00036,Vivaan,Muller,vivaan.muller603@example.com,Toronto,Canada,Corporate,2022-04-17,18
+CUST00037,Arjun,Singh,arjun.singh928@example.com,Kolkata,India,Consumer,2021-05-19,39
+CUST00038,Arjun,Costa,arjun.costa686@example.com,Kolkata,India,Small Business,2022-07-25,31
+CUST00039,Yuki,Iyer,yuki.iyer591@example.com,Berlin,Germany,Small Business,2024-03-15,33
+CUST00040,Wei,Li,wei.li100@example.com,Pune,India,Small Business,2021-07-13,40
+CUST00041,Olivia,Li,olivia.li56@example.com,Seattle,USA,Consumer,2025-02-02,21
+CUST00042,William,Ahmed,william.ahmed255@example.com,Tokyo,Japan,Corporate,2021-08-12,30
+CUST00043,Yuki,Kim,yuki.kim188@example.com,Chennai,India,Home Office,2023-05-15,47
+CUST00044,Myra,Kumar,myra.kumar101@example.com,Seattle,USA,Consumer,2024-02-02,59
+CUST00045,Yuki,Sharma,yuki.sharma870@example.com,Mumbai,India,Corporate,2025-03-24,28
+CUST00046,Emma,Santos,emma.santos886@example.com,London,UK,Small Business,2022-03-14,21
+CUST00047,Ananya,Chen,ananya.chen272@example.com,Lucknow,India,Small Business,2023-03-11,36
+CUST00048,Olivia,Rossi,olivia.rossi499@example.com,Dubai,UAE,Corporate,2025-01-11,30
+CUST00049,Navya,Brown,navya.brown754@example.com,Delhi,India,Enterprise,2024-04-01,21
+CUST00050,Valentina,Khan,valentina.khan599@example.com,Delhi,India,Small Business,2021-04-13,50
+CUST00051,Hana,Smith,hana.smith83@example.com,Delhi,India,Corporate,2023-11-07,22
+CUST00052,Omar,Kumar,omar.kumar414@example.com,Dubai,UAE,Consumer,2022-04-27,54
+CUST00053,Myra,Muller,myra.muller635@example.com,Sydney,Australia,Consumer,2021-03-23,44
+CUST00054,Jose,Muller,jose.muller324@example.com,Vancouver,Canada,Home Office,2023-12-07,31
+CUST00055,Jose,Khan,jose.khan406@example.com,Kolkata,India,Corporate,2022-06-28,60
+CUST00056,Maria,Martinez,maria.martinez952@example.com,Seattle,USA,Consumer,2022-10-10,18
+CUST00057,Isabella,Weber,isabella.weber76@example.com,Vancouver,Canada,Enterprise,2021-07-24,31
+CUST00058,Ming,Miller,ming.miller903@example.com,Chennai,India,Consumer,2022-12-16,33
+CUST00059,Michael,Rodriguez,michael.rodriguez854@example.com,Hyderabad,India,Enterprise,2023-06-17,63
+CUST00060,Riya,Weber,riya.weber542@example.com,Tokyo,Japan,Consumer,2024-09-01,60
+CUST00061,Sara,Martinez,sara.martinez107@example.com,Dublin,Ireland,Corporate,2024-09-20,34
+CUST00062,Sai,Reddy,sai.reddy160@example.com,Berlin,Germany,Home Office,2024-02-08,36
+CUST00063,Omar,Brown,omar.brown209@example.com,Singapore,Singapore,Home Office,2022-12-04,50
+CUST00064,Jing,Miller,jing.miller95@example.com,Cape Town,South Africa,Small Business,2021-04-15,35
+CUST00065,Aditya,Sharma,aditya.sharma134@example.com,New York,USA,Home Office,2025-04-29,28
+CUST00066,Valentina,Kim,valentina.kim438@example.com,Toronto,Canada,Enterprise,2024-12-16,18
+CUST00067,Sai,Kumar,sai.kumar926@example.com,Cape Town,South Africa,Corporate,2024-11-16,52
+CUST00068,Aditya,Hassan,aditya.hassan152@example.com,Vancouver,Canada,Small Business,2024-02-06,26
+CUST00069,Aditya,Martinez,aditya.martinez996@example.com,Los Angeles,USA,Consumer,2025-06-19,40
+CUST00070,Aadhya,Garcia,aadhya.garcia363@example.com,Dubai,UAE,Enterprise,2021-07-30,44
+CUST00071,Layla,Das,layla.das886@example.com,Dublin,Ireland,Corporate,2022-04-30,69
+CUST00072,Diya,Li,diya.li755@example.com,Lucknow,India,Home Office,2022-01-03,68
+CUST00073,Emma,Garcia,emma.garcia807@example.com,Jaipur,India,Consumer,2021-11-23,42
+CUST00074,Aditya,Silva,aditya.silva837@example.com,Kolkata,India,Small Business,2022-02-13,40
+CUST00075,Riya,Jones,riya.jones676@example.com,Kolkata,India,Corporate,2021-02-18,43
+CUST00076,Robert,Davis,robert.davis991@example.com,Sao Paulo,Brazil,Home Office,2021-05-23,40
+CUST00077,Maria,Costa,maria.costa864@example.com,Chicago,USA,Enterprise,2024-10-23,39
+CUST00078,Vivaan,Nair,vivaan.nair183@example.com,Cape Town,South Africa,Enterprise,2022-06-19,34
+CUST00079,Aditya,Reddy,aditya.reddy354@example.com,Sydney,Australia,Home Office,2023-06-09,45
+CUST00080,Omar,Costa,omar.costa922@example.com,Bengaluru,India,Enterprise,2023-02-28,30
+CUST00081,Pari,Gupta,pari.gupta2@example.com,Singapore,Singapore,Enterprise,2023-06-13,69
+CUST00082,Yuki,Williams,yuki.williams72@example.com,Los Angeles,USA,Home Office,2023-06-03,57
+CUST00083,James,Nair,james.nair520@example.com,Berlin,Germany,Home Office,2022-09-08,60
+CUST00084,Emma,Khan,emma.khan303@example.com,Chicago,USA,Enterprise,2024-11-28,26
+CUST00085,Saanvi,Li,saanvi.li694@example.com,Dubai,UAE,Corporate,2023-02-16,57
+CUST00086,Fatima,Martinez,fatima.martinez854@example.com,Chicago,USA,Consumer,2024-01-28,37
+CUST00087,Navya,Brown,navya.brown594@example.com,Houston,USA,Enterprise,2025-05-29,59
+CUST00088,James,Park,james.park692@example.com,Seattle,USA,Corporate,2023-06-25,50
+CUST00089,Wei,Smith,wei.smith291@example.com,Dubai,UAE,Enterprise,2021-06-23,60
+CUST00090,Carlos,Weber,carlos.weber839@example.com,New York,USA,Corporate,2021-07-11,61
+CUST00091,Riya,Jones,riya.jones151@example.com,Tokyo,Japan,Consumer,2022-02-12,20
+CUST00092,Myra,Silva,myra.silva75@example.com,Sydney,Australia,Small Business,2025-04-23,44
+CUST00093,Carlos,Bianchi,carlos.bianchi714@example.com,Pune,India,Small Business,2025-01-11,49
+CUST00094,William,Garcia,william.garcia705@example.com,Chennai,India,Consumer,2024-09-05,66
+CUST00095,Camila,Reddy,camila.reddy225@example.com,Paris,France,Corporate,2023-05-21,69
+CUST00096,Luis,Pereira,luis.pereira571@example.com,Seattle,USA,Corporate,2021-04-13,25
+CUST00097,Isabella,Iyer,isabella.iyer684@example.com,Tokyo,Japan,Enterprise,2023-08-10,53
+CUST00098,Omar,Khan,omar.khan628@example.com,Paris,France,Enterprise,2023-06-26,45
+CUST00099,Sara,Kim,sara.kim762@example.com,Cape Town,South Africa,Small Business,2021-11-22,46
+CUST00100,Pari,Garcia,pari.garcia284@example.com,Seoul,South Korea,Enterprise,2024-07-29,49
+CUST00101,Carlos,Garcia,carlos.garcia80@example.com,Jaipur,India,Home Office,2023-06-20,33
+CUST00102,Anika,Ahmed,anika.ahmed83@example.com,New York,USA,Corporate,2024-01-12,27
+CUST00103,Kiara,Chen,kiara.chen724@example.com,Singapore,Singapore,Corporate,2021-11-09,22
+CUST00104,Emma,Li,emma.li478@example.com,New York,USA,Small Business,2024-01-17,21
+CUST00105,Aadhya,Li,aadhya.li599@example.com,Chicago,USA,Consumer,2025-04-26,66
+CUST00106,Fatima,Chen,fatima.chen966@example.com,London,UK,Home Office,2021-01-13,37
+CUST00107,Mateo,Chen,mateo.chen552@example.com,Sao Paulo,Brazil,Enterprise,2023-05-09,69
+CUST00108,Omar,Jones,omar.jones280@example.com,London,UK,Small Business,2022-03-26,49
+CUST00109,Vivaan,Chen,vivaan.chen696@example.com,New York,USA,Small Business,2024-10-01,64
+CUST00110,Ananya,Park,ananya.park638@example.com,Dublin,Ireland,Enterprise,2021-09-19,19
+CUST00111,William,Muller,william.muller28@example.com,Vancouver,Canada,Consumer,2024-09-19,59
+CUST00112,Olivia,Iyer,olivia.iyer187@example.com,Sao Paulo,Brazil,Consumer,2023-08-04,34
+CUST00113,David,Khan,david.khan335@example.com,Pune,India,Home Office,2023-07-21,66
+CUST00114,David,Davis,david.davis259@example.com,Paris,France,Consumer,2023-05-14,48
+CUST00115,Vivaan,Fernandes,vivaan.fernandes230@example.com,Delhi,India,Consumer,2022-12-18,67
+CUST00116,Maria,Gupta,maria.gupta973@example.com,Paris,France,Corporate,2021-03-05,30
+CUST00117,Vivaan,Weber,vivaan.weber130@example.com,Chennai,India,Small Business,2022-05-04,60
+CUST00118,Sai,Bianchi,sai.bianchi717@example.com,Pune,India,Home Office,2023-08-11,67
+CUST00119,Michael,Smith,michael.smith987@example.com,Sydney,Australia,Consumer,2024-05-28,67
+CUST00120,Ananya,Martinez,ananya.martinez27@example.com,Bengaluru,India,Home Office,2024-03-31,54
+CUST00121,Ana,Chen,ana.chen204@example.com,Chicago,USA,Consumer,2025-01-04,55
+CUST00122,Luis,Garcia,luis.garcia792@example.com,Bengaluru,India,Home Office,2024-11-28,61
+CUST00123,Omar,Nair,omar.nair802@example.com,Tokyo,Japan,Consumer,2024-03-05,40
+CUST00124,Yuki,Zhang,yuki.zhang71@example.com,Dubai,UAE,Enterprise,2023-01-29,59
+CUST00125,Robert,Sharma,robert.sharma843@example.com,Sao Paulo,Brazil,Small Business,2023-05-11,24
+CUST00126,Olivia,Hassan,olivia.hassan725@example.com,Melbourne,Australia,Corporate,2023-07-31,45
+CUST00127,Diya,Pereira,diya.pereira631@example.com,Melbourne,Australia,Enterprise,2022-07-08,67
+CUST00128,Wei,Park,wei.park607@example.com,Houston,USA,Home Office,2025-02-06,38
+CUST00129,Myra,Patel,myra.patel250@example.com,Jaipur,India,Small Business,2023-07-13,54
+CUST00130,Layla,Chen,layla.chen507@example.com,New York,USA,Home Office,2021-02-28,29
+CUST00131,Jing,Brown,jing.brown265@example.com,Los Angeles,USA,Home Office,2025-06-22,35
+CUST00132,Omar,Davis,omar.davis530@example.com,Toronto,Canada,Corporate,2021-01-21,23
+CUST00133,Myra,Li,myra.li777@example.com,London,UK,Corporate,2024-02-12,62
+CUST00134,Wei,Santos,wei.santos18@example.com,Seattle,USA,Consumer,2025-06-12,36
+CUST00135,Kiara,Wang,kiara.wang314@example.com,Singapore,Singapore,Enterprise,2022-05-14,41
+CUST00136,Wei,Rossi,wei.rossi436@example.com,Manchester,UK,Enterprise,2022-12-06,39
+CUST00137,John,Park,john.park258@example.com,Jaipur,India,Corporate,2022-09-20,25
+CUST00138,Diego,Williams,diego.williams761@example.com,New York,USA,Enterprise,2021-09-02,66
+CUST00139,Luis,Johnson,luis.johnson757@example.com,Pune,India,Small Business,2022-03-20,35
+CUST00140,Diego,Muller,diego.muller612@example.com,Paris,France,Home Office,2023-12-11,24
+CUST00141,Saanvi,Rodriguez,saanvi.rodriguez184@example.com,Kolkata,India,Home Office,2023-01-10,18
+CUST00142,Sofia,Fernandes,sofia.fernandes47@example.com,Chennai,India,Consumer,2022-07-16,53
+CUST00143,Navya,Iyer,navya.iyer503@example.com,Melbourne,Australia,Consumer,2025-03-22,18
+CUST00144,Fatima,Rodriguez,fatima.rodriguez452@example.com,London,UK,Home Office,2023-09-08,29
+CUST00145,Vihaan,Miller,vihaan.miller117@example.com,Sao Paulo,Brazil,Consumer,2023-09-06,43
+CUST00146,Jing,Kumar,jing.kumar703@example.com,Vancouver,Canada,Consumer,2024-07-13,27
+CUST00147,Ishaan,Bianchi,ishaan.bianchi255@example.com,Ahmedabad,India,Consumer,2021-06-24,53
+CUST00148,Mateo,Li,mateo.li810@example.com,Sydney,Australia,Enterprise,2024-05-05,32
+CUST00149,Camila,Pereira,camila.pereira931@example.com,Chicago,USA,Small Business,2023-07-12,37
+CUST00150,Ali,Zhang,ali.zhang636@example.com,Ahmedabad,India,Consumer,2024-03-10,57
+CUST00151,Valentina,Reddy,valentina.reddy641@example.com,Paris,France,Corporate,2022-03-02,34
+CUST00152,Jose,Patel,jose.patel178@example.com,Hyderabad,India,Enterprise,2022-05-07,22
+CUST00153,Ananya,Sharma,ananya.sharma706@example.com,Houston,USA,Enterprise,2023-07-12,48
+CUST00154,Navya,Gupta,navya.gupta724@example.com,Kolkata,India,Home Office,2022-08-14,62
+CUST00155,Isabella,Kumar,isabella.kumar947@example.com,Dubai,UAE,Home Office,2022-04-24,68
+CUST00156,Carlos,Muller,carlos.muller957@example.com,Dubai,UAE,Corporate,2025-07-05,45
+CUST00157,Sai,Fernandes,sai.fernandes153@example.com,Kolkata,India,Home Office,2024-08-19,70
+CUST00158,Ishaan,Kumar,ishaan.kumar812@example.com,Delhi,India,Home Office,2021-12-06,56
+CUST00159,Valentina,Bianchi,valentina.bianchi450@example.com,Dublin,Ireland,Consumer,2022-08-15,47
+CUST00160,Luis,Martinez,luis.martinez966@example.com,Singapore,Singapore,Home Office,2023-04-05,50
+CUST00161,Yuki,Santos,yuki.santos613@example.com,Seattle,USA,Consumer,2021-06-14,45
+CUST00162,Valentina,Khan,valentina.khan27@example.com,Sydney,Australia,Consumer,2022-05-28,32
+CUST00163,Ana,Bianchi,ana.bianchi784@example.com,Vancouver,Canada,Home Office,2021-02-12,54
+CUST00164,Aditya,Johnson,aditya.johnson668@example.com,London,UK,Small Business,2023-11-29,35
+CUST00165,Diya,Muller,diya.muller834@example.com,Houston,USA,Small Business,2024-07-24,23
+CUST00166,Wei,Ali,wei.ali329@example.com,Houston,USA,Consumer,2022-11-14,28
+CUST00167,Robert,Li,robert.li296@example.com,Singapore,Singapore,Small Business,2023-10-12,70
+CUST00168,Mateo,Rossi,mateo.rossi91@example.com,Delhi,India,Home Office,2023-07-21,34
+CUST00169,James,Nair,james.nair886@example.com,Paris,France,Enterprise,2023-04-08,70
+CUST00170,Aarav,Fernandes,aarav.fernandes56@example.com,Seattle,USA,Corporate,2023-04-27,51
+CUST00171,Michael,Weber,michael.weber641@example.com,Paris,France,Small Business,2023-10-18,66
+CUST00172,Vihaan,Brown,vihaan.brown135@example.com,Jaipur,India,Home Office,2024-01-30,46
+CUST00173,Luis,Santos,luis.santos997@example.com,Bengaluru,India,Enterprise,2021-03-01,69
+CUST00174,Myra,Smith,myra.smith15@example.com,Ahmedabad,India,Enterprise,2024-02-03,44
+CUST00175,Reyansh,Jones,reyansh.jones473@example.com,Seoul,South Korea,Consumer,2021-08-21,59
+CUST00176,Ishaan,Santos,ishaan.santos299@example.com,Dublin,Ireland,Enterprise,2025-01-07,63
+CUST00177,Anika,Li,anika.li484@example.com,Seoul,South Korea,Corporate,2023-09-16,47
+CUST00178,Sara,Das,sara.das944@example.com,Chicago,USA,Enterprise,2022-01-26,50
+CUST00179,Valentina,Iyer,valentina.iyer283@example.com,Sao Paulo,Brazil,Small Business,2021-05-23,39
+CUST00180,Ming,Davis,ming.davis290@example.com,Seoul,South Korea,Home Office,2021-01-06,55
+CUST00181,Ali,Santos,ali.santos458@example.com,Sao Paulo,Brazil,Enterprise,2021-11-01,48
+CUST00182,John,Ahmed,john.ahmed557@example.com,Toronto,Canada,Small Business,2025-04-12,47
+CUST00183,James,Williams,james.williams586@example.com,Singapore,Singapore,Small Business,2022-05-05,32
+CUST00184,Camila,Li,camila.li763@example.com,Delhi,India,Small Business,2022-10-14,63
+CUST00185,David,Chen,david.chen841@example.com,Dubai,UAE,Corporate,2025-06-11,49
+CUST00186,Aditya,Iyer,aditya.iyer340@example.com,Manchester,UK,Consumer,2024-04-23,46
+CUST00187,Muhammad,Pereira,muhammad.pereira16@example.com,Dublin,Ireland,Corporate,2023-07-25,44
+CUST00188,Maria,Das,maria.das801@example.com,Mumbai,India,Home Office,2023-08-20,39
+CUST00189,Layla,Wang,layla.wang873@example.com,Melbourne,Australia,Home Office,2021-06-14,61
+CUST00190,Yuki,Chen,yuki.chen736@example.com,New York,USA,Small Business,2024-07-07,52
+CUST00191,Aditya,Weber,aditya.weber647@example.com,Mumbai,India,Home Office,2022-04-26,32
+CUST00192,Valentina,Patel,valentina.patel779@example.com,Houston,USA,Consumer,2021-07-21,46
+CUST00193,Ananya,Martinez,ananya.martinez48@example.com,Cape Town,South Africa,Home Office,2021-03-01,68
+CUST00194,Vihaan,Rodriguez,vihaan.rodriguez442@example.com,Los Angeles,USA,Corporate,2023-02-07,33
+CUST00195,Hana,Li,hana.li812@example.com,Vancouver,Canada,Corporate,2024-10-28,28
+CUST00196,Diya,Patel,diya.patel635@example.com,Sydney,Australia,Corporate,2023-02-23,49
+CUST00197,Ali,Das,ali.das654@example.com,Kolkata,India,Home Office,2023-08-03,47
+CUST00198,Pari,Sharma,pari.sharma477@example.com,Cape Town,South Africa,Home Office,2025-07-06,61
+CUST00199,Yuki,Smith,yuki.smith968@example.com,Mumbai,India,Home Office,2023-06-24,55
+CUST00200,Riya,Zhang,riya.zhang468@example.com,Singapore,Singapore,Home Office,2022-05-28,30
+CUST00201,David,Silva,david.silva391@example.com,Bengaluru,India,Enterprise,2022-05-01,40
+CUST00202,Fatima,Rodriguez,fatima.rodriguez23@example.com,Singapore,Singapore,Small Business,2022-08-28,35
+CUST00203,Aarav,Bianchi,aarav.bianchi797@example.com,Sao Paulo,Brazil,Consumer,2024-11-05,56
+CUST00204,Valentina,Santos,valentina.santos795@example.com,Seoul,South Korea,Corporate,2022-08-10,56
+CUST00205,John,Jones,john.jones636@example.com,Melbourne,Australia,Home Office,2022-01-25,61
+CUST00206,Mateo,Iyer,mateo.iyer926@example.com,Melbourne,Australia,Consumer,2021-07-18,37
+CUST00207,Sophia,Gupta,sophia.gupta750@example.com,Vancouver,Canada,Corporate,2023-01-18,23
+CUST00208,Navya,Khan,navya.khan180@example.com,Berlin,Germany,Corporate,2023-05-01,26
+CUST00209,Yuki,Hassan,yuki.hassan936@example.com,Manchester,UK,Home Office,2023-10-25,28
+CUST00210,Pari,Silva,pari.silva765@example.com,Tokyo,Japan,Home Office,2022-08-28,69
+CUST00211,Sai,Park,sai.park773@example.com,Mumbai,India,Corporate,2021-10-16,61
+CUST00212,Diego,Wang,diego.wang571@example.com,Sao Paulo,Brazil,Home Office,2025-07-06,23
+CUST00213,William,Sharma,william.sharma127@example.com,Jaipur,India,Small Business,2024-01-04,41
+CUST00214,Ana,Miller,ana.miller843@example.com,Vancouver,Canada,Home Office,2023-02-20,24
+CUST00215,Ana,Jones,ana.jones635@example.com,London,UK,Enterprise,2021-02-21,38
+CUST00216,Layla,Jones,layla.jones651@example.com,Melbourne,Australia,Small Business,2021-05-10,62
+CUST00217,Riya,Li,riya.li47@example.com,Bengaluru,India,Consumer,2021-10-14,37
+CUST00218,Jing,Nair,jing.nair909@example.com,Bengaluru,India,Enterprise,2022-04-26,26
+CUST00219,David,Park,david.park973@example.com,Los Angeles,USA,Enterprise,2024-10-05,44
+CUST00220,Ali,Das,ali.das671@example.com,Cape Town,South Africa,Consumer,2023-04-30,49
+CUST00221,Layla,Li,layla.li707@example.com,Jaipur,India,Home Office,2021-03-09,31
+CUST00222,Sophia,Kim,sophia.kim102@example.com,Kolkata,India,Home Office,2023-01-13,52
+CUST00223,Maria,Ali,maria.ali283@example.com,Delhi,India,Corporate,2023-03-27,25
+CUST00224,Isabella,Patel,isabella.patel658@example.com,Dubai,UAE,Enterprise,2022-03-11,19
+CUST00225,Vihaan,Ahmed,vihaan.ahmed806@example.com,Kolkata,India,Enterprise,2021-09-15,31
+CUST00226,Arjun,Rossi,arjun.rossi222@example.com,Pune,India,Corporate,2024-04-15,39
+CUST00227,Camila,Das,camila.das3@example.com,Tokyo,Japan,Home Office,2024-05-05,27
+CUST00228,Krishna,Fernandes,krishna.fernandes179@example.com,Jaipur,India,Consumer,2025-06-24,60
+CUST00229,Vivaan,Iyer,vivaan.iyer809@example.com,Lucknow,India,Corporate,2023-01-04,55
+CUST00230,James,Verma,james.verma54@example.com,Hyderabad,India,Corporate,2022-06-28,65
+CUST00231,Emma,Pereira,emma.pereira66@example.com,Bengaluru,India,Small Business,2025-03-08,46
+CUST00232,Camila,Hassan,camila.hassan112@example.com,Manchester,UK,Small Business,2024-04-30,50
+CUST00233,Kiara,Weber,kiara.weber803@example.com,Delhi,India,Enterprise,2025-01-29,37
+CUST00234,Isabella,Verma,isabella.verma868@example.com,Delhi,India,Small Business,2023-09-08,45
+CUST00235,Ana,Reddy,ana.reddy932@example.com,London,UK,Small Business,2024-12-29,22
+CUST00236,Reyansh,Khan,reyansh.khan68@example.com,Sydney,Australia,Corporate,2021-10-31,35
+CUST00237,Layla,Muller,layla.muller333@example.com,Toronto,Canada,Small Business,2024-12-29,56
+CUST00238,Hana,Rodriguez,hana.rodriguez620@example.com,Seattle,USA,Small Business,2023-11-02,24
+CUST00239,Luis,Nair,luis.nair667@example.com,Sao Paulo,Brazil,Enterprise,2024-09-02,64
+CUST00240,Aadhya,Zhang,aadhya.zhang424@example.com,Seattle,USA,Home Office,2022-04-13,70
+CUST00241,Isabella,Wang,isabella.wang98@example.com,Houston,USA,Home Office,2025-02-03,45
+CUST00242,James,Miller,james.miller704@example.com,Los Angeles,USA,Small Business,2021-11-09,22
+CUST00243,Reyansh,Patel,reyansh.patel99@example.com,Mumbai,India,Home Office,2023-06-04,69
+CUST00244,Krishna,Rossi,krishna.rossi980@example.com,Delhi,India,Enterprise,2024-04-16,53
+CUST00245,Robert,Nair,robert.nair895@example.com,Houston,USA,Small Business,2022-12-26,64
+CUST00246,Vihaan,Rodriguez,vihaan.rodriguez361@example.com,Sydney,Australia,Consumer,2022-10-02,54
+CUST00247,Ming,Brown,ming.brown494@example.com,Chennai,India,Corporate,2024-09-06,24
+CUST00248,John,Rossi,john.rossi781@example.com,Los Angeles,USA,Home Office,2021-08-24,54
+CUST00249,Kiara,Zhang,kiara.zhang998@example.com,Sao Paulo,Brazil,Enterprise,2024-02-23,57
+CUST00250,Ana,Rossi,ana.rossi952@example.com,Lucknow,India,Home Office,2024-06-01,19
+CUST00251,Diya,Davis,diya.davis317@example.com,Singapore,Singapore,Home Office,2025-04-11,40
+CUST00252,Aarav,Johnson,aarav.johnson580@example.com,Sao Paulo,Brazil,Small Business,2021-10-21,22
+CUST00253,Ishaan,Verma,ishaan.verma544@example.com,Mumbai,India,Corporate,2025-03-09,42
+CUST00254,Emma,Park,emma.park379@example.com,New York,USA,Home Office,2021-11-19,64
+CUST00255,James,Bianchi,james.bianchi905@example.com,Sydney,Australia,Consumer,2021-06-23,27
+CUST00256,Ananya,Weber,ananya.weber84@example.com,Delhi,India,Home Office,2024-10-12,46
+CUST00257,Jose,Zhang,jose.zhang453@example.com,London,UK,Small Business,2024-05-28,35
+CUST00258,Aadhya,Costa,aadhya.costa441@example.com,Bengaluru,India,Consumer,2022-12-08,36
+CUST00259,Ana,Muller,ana.muller684@example.com,London,UK,Home Office,2023-12-16,20
+CUST00260,Kiara,Wang,kiara.wang8@example.com,Sydney,Australia,Corporate,2021-04-23,37
+CUST00261,Aadhya,Iyer,aadhya.iyer297@example.com,Paris,France,Home Office,2022-06-08,25
+CUST00262,Aarav,Santos,aarav.santos180@example.com,Berlin,Germany,Corporate,2023-06-01,42
+CUST00263,Yuki,Jones,yuki.jones854@example.com,Manchester,UK,Home Office,2024-02-19,22
+CUST00264,William,Gupta,william.gupta471@example.com,Houston,USA,Consumer,2021-02-08,38
+CUST00265,Fatima,Zhang,fatima.zhang727@example.com,Vancouver,Canada,Small Business,2023-04-09,36
+CUST00266,Sai,Wang,sai.wang176@example.com,Lucknow,India,Enterprise,2022-10-28,47
+CUST00267,Luis,Hassan,luis.hassan865@example.com,Mumbai,India,Consumer,2023-06-14,33
+CUST00268,Olivia,Muller,olivia.muller81@example.com,Chicago,USA,Small Business,2023-12-10,37
+CUST00269,Valentina,Ahmed,valentina.ahmed798@example.com,Kolkata,India,Corporate,2022-11-14,22
+CUST00270,Ming,Nair,ming.nair199@example.com,Manchester,UK,Home Office,2023-11-11,40
+CUST00271,Diego,Das,diego.das150@example.com,Kolkata,India,Home Office,2021-07-30,30
+CUST00272,Diya,Schmidt,diya.schmidt778@example.com,Chennai,India,Consumer,2025-04-06,29
+CUST00273,Camila,Santos,camila.santos578@example.com,Seattle,USA,Enterprise,2025-03-26,46
+CUST00274,Ana,Bianchi,ana.bianchi640@example.com,Melbourne,Australia,Home Office,2024-07-25,58
+CUST00275,James,Das,james.das481@example.com,Seattle,USA,Small Business,2021-05-20,58
+CUST00276,Riya,Davis,riya.davis361@example.com,Vancouver,Canada,Enterprise,2021-04-26,22
+CUST00277,Riya,Park,riya.park59@example.com,Seattle,USA,Home Office,2021-03-19,36
+CUST00278,Arjun,Patel,arjun.patel520@example.com,Sydney,Australia,Small Business,2024-05-01,47
+CUST00279,Ali,Rossi,ali.rossi918@example.com,Tokyo,Japan,Consumer,2025-02-22,46
+CUST00280,Fatima,Williams,fatima.williams488@example.com,New York,USA,Enterprise,2024-05-24,27
+CUST00281,Vihaan,Kim,vihaan.kim732@example.com,Bengaluru,India,Consumer,2022-12-05,50
+CUST00282,Maria,Johnson,maria.johnson725@example.com,Delhi,India,Small Business,2022-05-23,46
+CUST00283,Hana,Pereira,hana.pereira373@example.com,Sydney,Australia,Home Office,2021-11-22,36
+CUST00284,David,Li,david.li696@example.com,Paris,France,Enterprise,2022-11-24,21
+CUST00285,Carlos,Ahmed,carlos.ahmed97@example.com,Mumbai,India,Enterprise,2022-11-07,61
+CUST00286,David,Rodriguez,david.rodriguez873@example.com,Jaipur,India,Enterprise,2025-01-22,27
+CUST00287,Robert,Patel,robert.patel145@example.com,Vancouver,Canada,Home Office,2024-09-21,37
+CUST00288,Maria,Wang,maria.wang726@example.com,Chennai,India,Consumer,2024-05-03,37
+CUST00289,Sara,Chen,sara.chen337@example.com,Melbourne,Australia,Corporate,2025-06-10,60
+CUST00290,Luis,Pereira,luis.pereira687@example.com,Mumbai,India,Small Business,2024-08-16,50
+CUST00291,Michael,Verma,michael.verma185@example.com,Los Angeles,USA,Corporate,2022-09-25,39
+CUST00292,Camila,Santos,camila.santos141@example.com,Pune,India,Corporate,2022-04-09,22
+CUST00293,Navya,Reddy,navya.reddy553@example.com,Manchester,UK,Enterprise,2025-04-28,20
+CUST00294,Jose,Ahmed,jose.ahmed633@example.com,Cape Town,South Africa,Corporate,2025-04-19,56
+CUST00295,David,Das,david.das852@example.com,Hyderabad,India,Enterprise,2022-01-06,69
+CUST00296,Ananya,Kim,ananya.kim374@example.com,Delhi,India,Corporate,2023-04-22,46
+CUST00297,Layla,Rodriguez,layla.rodriguez803@example.com,Paris,France,Small Business,2025-03-14,32
+CUST00298,Yuki,Garcia,yuki.garcia481@example.com,Ahmedabad,India,Corporate,2025-05-26,41
+CUST00299,Ana,Bianchi,ana.bianchi788@example.com,Seattle,USA,Home Office,2023-08-04,67
+CUST00300,David,Costa,david.costa990@example.com,Manchester,UK,Corporate,2023-05-08,70
+CUST00301,Saanvi,Schmidt,saanvi.schmidt54@example.com,Chennai,India,Small Business,2022-05-28,41
+CUST00302,Sara,Reddy,sara.reddy872@example.com,Singapore,Singapore,Consumer,2023-11-23,36
+CUST00303,Reyansh,Smith,reyansh.smith928@example.com,Jaipur,India,Enterprise,2023-07-10,27
+CUST00304,Olivia,Patel,olivia.patel837@example.com,Dublin,Ireland,Small Business,2022-03-31,40
+CUST00305,Vivaan,Li,vivaan.li515@example.com,Delhi,India,Home Office,2023-03-23,33
+CUST00306,David,Patel,david.patel29@example.com,Los Angeles,USA,Home Office,2022-04-05,24
+CUST00307,Sofia,Ahmed,sofia.ahmed141@example.com,Tokyo,Japan,Consumer,2021-10-27,36
+CUST00308,Wei,Iyer,wei.iyer481@example.com,Paris,France,Small Business,2024-12-15,57
+CUST00309,Aarav,Patel,aarav.patel221@example.com,Lucknow,India,Corporate,2022-06-09,53
+CUST00310,Diego,Schmidt,diego.schmidt114@example.com,Manchester,UK,Home Office,2023-05-17,33
+CUST00311,Riya,Nair,riya.nair430@example.com,Delhi,India,Enterprise,2022-05-04,47
+CUST00312,Arjun,Nair,arjun.nair612@example.com,Seoul,South Korea,Enterprise,2023-10-21,19
+CUST00313,Carlos,Costa,carlos.costa736@example.com,Vancouver,Canada,Corporate,2022-05-11,36
+CUST00314,Olivia,Sharma,olivia.sharma247@example.com,Sydney,Australia,Enterprise,2022-12-24,44
+CUST00315,Diya,Patel,diya.patel70@example.com,Manchester,UK,Enterprise,2023-01-09,52
+CUST00316,Ming,Costa,ming.costa400@example.com,Toronto,Canada,Small Business,2021-02-11,20
+CUST00317,Carlos,Chen,carlos.chen766@example.com,Los Angeles,USA,Consumer,2022-06-04,40
+CUST00318,Arjun,Ali,arjun.ali673@example.com,Kolkata,India,Consumer,2025-02-10,67
+CUST00319,Ali,Ahmed,ali.ahmed361@example.com,Chennai,India,Enterprise,2021-04-01,39
+CUST00320,Maria,Johnson,maria.johnson702@example.com,Seoul,South Korea,Small Business,2025-05-15,62
+CUST00321,Wei,Johnson,wei.johnson65@example.com,Tokyo,Japan,Small Business,2021-10-04,20
+CUST00322,Navya,Williams,navya.williams205@example.com,Delhi,India,Consumer,2025-06-09,38
+CUST00323,Riya,Costa,riya.costa485@example.com,Chicago,USA,Home Office,2024-01-18,20
+CUST00324,Mateo,Williams,mateo.williams883@example.com,Ahmedabad,India,Consumer,2023-01-02,59
+CUST00325,Robert,Davis,robert.davis377@example.com,Bengaluru,India,Small Business,2025-06-26,43
+CUST00326,Valentina,Kim,valentina.kim348@example.com,Cape Town,South Africa,Corporate,2023-03-03,49
+CUST00327,Luis,Santos,luis.santos532@example.com,Los Angeles,USA,Home Office,2025-06-21,69
+CUST00328,Reyansh,Zhang,reyansh.zhang617@example.com,Mumbai,India,Corporate,2023-06-01,52
+CUST00329,Navya,Khan,navya.khan336@example.com,Bengaluru,India,Home Office,2021-06-13,37
+CUST00330,Sophia,Schmidt,sophia.schmidt171@example.com,Singapore,Singapore,Small Business,2023-05-23,40
+CUST00331,Sophia,Gupta,sophia.gupta630@example.com,Berlin,Germany,Small Business,2022-12-24,35
+CUST00332,Carlos,Singh,carlos.singh653@example.com,Mumbai,India,Small Business,2024-10-06,41
+CUST00333,Ming,Smith,ming.smith870@example.com,Lucknow,India,Enterprise,2021-10-20,61
+CUST00334,Sophia,Gupta,sophia.gupta242@example.com,Chennai,India,Home Office,2021-05-18,41
+CUST00335,David,Bianchi,david.bianchi158@example.com,Delhi,India,Small Business,2024-05-24,41
+CUST00336,Michael,Kim,michael.kim588@example.com,Paris,France,Corporate,2021-06-07,51
+CUST00337,Michael,Wang,michael.wang286@example.com,New York,USA,Corporate,2024-08-23,25
+CUST00338,Vivaan,Johnson,vivaan.johnson397@example.com,London,UK,Enterprise,2023-11-27,25
+CUST00339,Pari,Miller,pari.miller220@example.com,Singapore,Singapore,Enterprise,2023-07-03,36
+CUST00340,Luis,Santos,luis.santos139@example.com,Pune,India,Consumer,2021-09-09,46
+CUST00341,Diya,Kim,diya.kim991@example.com,Mumbai,India,Home Office,2024-10-28,60
+CUST00342,John,Kumar,john.kumar298@example.com,Toronto,Canada,Home Office,2024-01-16,28
+CUST00343,Sofia,Johnson,sofia.johnson521@example.com,Tokyo,Japan,Corporate,2023-01-11,25
+CUST00344,Saanvi,Iyer,saanvi.iyer506@example.com,Kolkata,India,Consumer,2025-06-07,41
+CUST00345,Sara,Bianchi,sara.bianchi823@example.com,Los Angeles,USA,Enterprise,2023-08-16,26
+CUST00346,Layla,Patel,layla.patel408@example.com,Mumbai,India,Small Business,2022-09-26,51
+CUST00347,Emma,Li,emma.li76@example.com,Seoul,South Korea,Corporate,2024-03-23,38
+CUST00348,Maria,Kumar,maria.kumar697@example.com,Seattle,USA,Enterprise,2023-08-13,40
+CUST00349,Krishna,Rossi,krishna.rossi187@example.com,Melbourne,Australia,Corporate,2024-04-18,45
+CUST00350,Ming,Singh,ming.singh531@example.com,Seoul,South Korea,Corporate,2021-09-12,37
+CUST00351,Ananya,Smith,ananya.smith231@example.com,New York,USA,Home Office,2024-12-23,51
+CUST00352,Navya,Patel,navya.patel651@example.com,Jaipur,India,Enterprise,2022-02-07,35
+CUST00353,Krishna,Martinez,krishna.martinez96@example.com,Sydney,Australia,Enterprise,2023-12-29,59
+CUST00354,Ananya,Muller,ananya.muller176@example.com,Vancouver,Canada,Enterprise,2021-11-12,64
+CUST00355,Omar,Ahmed,omar.ahmed43@example.com,Seoul,South Korea,Consumer,2024-02-29,23
+CUST00356,Aditya,Bianchi,aditya.bianchi216@example.com,Jaipur,India,Enterprise,2024-08-26,44
+CUST00357,Layla,Verma,layla.verma559@example.com,London,UK,Home Office,2024-07-08,59
+CUST00358,Riya,Silva,riya.silva827@example.com,Kolkata,India,Small Business,2025-07-07,37
+CUST00359,Isabella,Kumar,isabella.kumar162@example.com,Singapore,Singapore,Small Business,2021-05-03,44
+CUST00360,Wei,Park,wei.park622@example.com,Pune,India,Corporate,2022-11-28,38
+CUST00361,Sofia,Khan,sofia.khan999@example.com,Berlin,Germany,Small Business,2022-12-09,26
+CUST00362,Mateo,Hassan,mateo.hassan109@example.com,Manchester,UK,Home Office,2024-02-25,33
+CUST00363,Isabella,Nair,isabella.nair254@example.com,Jaipur,India,Corporate,2023-07-10,24
+CUST00364,Vihaan,Rodriguez,vihaan.rodriguez429@example.com,Chicago,USA,Corporate,2024-06-14,28
+CUST00365,James,Bianchi,james.bianchi195@example.com,Berlin,Germany,Corporate,2022-10-03,49
+CUST00366,Ming,Park,ming.park510@example.com,London,UK,Consumer,2022-09-24,23
+CUST00367,William,Costa,william.costa221@example.com,Seattle,USA,Enterprise,2022-05-09,40
+CUST00368,Vihaan,Singh,vihaan.singh612@example.com,Ahmedabad,India,Small Business,2023-10-11,36
+CUST00369,Yuki,Sharma,yuki.sharma442@example.com,Sao Paulo,Brazil,Corporate,2021-08-09,34
+CUST00370,Diego,Hassan,diego.hassan375@example.com,Paris,France,Consumer,2023-04-06,43
+CUST00371,Vihaan,Bianchi,vihaan.bianchi372@example.com,Toronto,Canada,Enterprise,2022-02-03,36
+CUST00372,Arjun,Chen,arjun.chen783@example.com,Manchester,UK,Enterprise,2023-07-12,35
+CUST00373,Layla,Weber,layla.weber999@example.com,Bengaluru,India,Consumer,2021-09-21,43
+CUST00374,Michael,Ahmed,michael.ahmed774@example.com,Toronto,Canada,Corporate,2023-01-19,30
+CUST00375,Omar,Costa,omar.costa42@example.com,Chicago,USA,Consumer,2023-10-22,20
+CUST00376,Krishna,Ahmed,krishna.ahmed532@example.com,Tokyo,Japan,Small Business,2023-08-29,27
+CUST00377,Omar,Costa,omar.costa954@example.com,Chennai,India,Enterprise,2022-11-03,38
+CUST00378,Ananya,Wang,ananya.wang863@example.com,Sydney,Australia,Home Office,2025-02-23,55
+CUST00379,Robert,Costa,robert.costa546@example.com,Seoul,South Korea,Small Business,2023-11-10,63
+CUST00380,Fatima,Martinez,fatima.martinez378@example.com,London,UK,Home Office,2021-02-04,61
+CUST00381,Sai,Li,sai.li816@example.com,Vancouver,Canada,Consumer,2022-09-23,56
+CUST00382,Wei,Miller,wei.miller996@example.com,Melbourne,Australia,Enterprise,2025-05-23,54
+CUST00383,Kiara,Singh,kiara.singh175@example.com,Vancouver,Canada,Enterprise,2023-09-11,58
+CUST00384,Diego,Weber,diego.weber152@example.com,Paris,France,Corporate,2023-02-18,20
+CUST00385,Fatima,Nair,fatima.nair452@example.com,Pune,India,Home Office,2021-02-08,44
+CUST00386,Ishaan,Li,ishaan.li421@example.com,Singapore,Singapore,Enterprise,2022-02-22,67
+CUST00387,Layla,Silva,layla.silva745@example.com,Sao Paulo,Brazil,Consumer,2025-02-15,63
+CUST00388,Krishna,Pereira,krishna.pereira333@example.com,Pune,India,Small Business,2024-02-23,51
+CUST00389,David,Khan,david.khan935@example.com,Hyderabad,India,Enterprise,2023-07-31,39
+CUST00390,Yuki,Ali,yuki.ali889@example.com,Dubai,UAE,Home Office,2025-05-01,57
+CUST00391,Wei,Williams,wei.williams572@example.com,Kolkata,India,Home Office,2022-07-26,32
+CUST00392,Riya,Rodriguez,riya.rodriguez707@example.com,Singapore,Singapore,Small Business,2022-03-01,38
+CUST00393,Wei,Ali,wei.ali739@example.com,Toronto,Canada,Home Office,2025-06-17,36
+CUST00394,Sai,Bianchi,sai.bianchi389@example.com,Dubai,UAE,Small Business,2024-01-18,70
+CUST00395,John,Das,john.das295@example.com,Ahmedabad,India,Consumer,2021-03-28,40
+CUST00396,Sophia,Miller,sophia.miller220@example.com,Berlin,Germany,Corporate,2023-09-09,70
+CUST00397,Yuki,Davis,yuki.davis713@example.com,Dublin,Ireland,Home Office,2024-02-26,26
+CUST00398,Muhammad,Weber,muhammad.weber246@example.com,Berlin,Germany,Corporate,2024-04-16,21
+CUST00399,Jose,Pereira,jose.pereira239@example.com,Kolkata,India,Consumer,2024-07-30,24
+CUST00400,Emma,Ahmed,emma.ahmed103@example.com,Singapore,Singapore,Corporate,2023-08-26,18
+CUST00401,Sara,Smith,sara.smith958@example.com,Houston,USA,Small Business,2024-08-30,48
+CUST00402,Maria,Williams,maria.williams329@example.com,Paris,France,Home Office,2022-08-12,59
+CUST00403,Vihaan,Patel,vihaan.patel238@example.com,Melbourne,Australia,Enterprise,2024-03-21,65
+CUST00404,Diego,Gupta,diego.gupta428@example.com,Dublin,Ireland,Corporate,2021-12-25,20
+CUST00405,William,Santos,william.santos986@example.com,Hyderabad,India,Home Office,2025-03-14,20
+CUST00406,Aarav,Martinez,aarav.martinez110@example.com,Vancouver,Canada,Home Office,2024-05-19,36
+CUST00407,Isabella,Fernandes,isabella.fernandes911@example.com,Manchester,UK,Corporate,2023-10-09,50
+CUST00408,Isabella,Davis,isabella.davis339@example.com,Pune,India,Corporate,2021-08-19,64
+CUST00409,Isabella,Miller,isabella.miller15@example.com,Singapore,Singapore,Home Office,2022-01-17,68
+CUST00410,Navya,Bianchi,navya.bianchi198@example.com,Dubai,UAE,Corporate,2025-03-31,57
+CUST00411,Carlos,Wang,carlos.wang528@example.com,Seoul,South Korea,Home Office,2023-05-26,23
+CUST00412,William,Reddy,william.reddy489@example.com,Hyderabad,India,Home Office,2021-10-15,33
+CUST00413,Aarav,Miller,aarav.miller458@example.com,Chicago,USA,Home Office,2022-04-28,39
+CUST00414,Riya,Muller,riya.muller12@example.com,Berlin,Germany,Home Office,2024-03-19,59
+CUST00415,Michael,Garcia,michael.garcia122@example.com,Delhi,India,Small Business,2024-09-29,37
+CUST00416,Ananya,Wang,ananya.wang946@example.com,Dubai,UAE,Home Office,2023-10-27,62
+CUST00417,Sai,Rodriguez,sai.rodriguez227@example.com,Los Angeles,USA,Corporate,2024-06-12,26
+CUST00418,Wei,Das,wei.das621@example.com,Seattle,USA,Home Office,2025-03-12,44
+CUST00419,Luis,Rossi,luis.rossi776@example.com,Dublin,Ireland,Enterprise,2023-08-23,69
+CUST00420,Jose,Brown,jose.brown697@example.com,Paris,France,Enterprise,2022-05-22,68
+CUST00421,Reyansh,Pereira,reyansh.pereira721@example.com,Seattle,USA,Home Office,2023-12-18,22
+CUST00422,Fatima,Nair,fatima.nair925@example.com,Delhi,India,Enterprise,2024-01-27,30
+CUST00423,Fatima,Fernandes,fatima.fernandes336@example.com,Chennai,India,Enterprise,2021-12-03,46
+CUST00424,Sai,Brown,sai.brown501@example.com,Singapore,Singapore,Consumer,2024-04-09,50
+CUST00425,Sophia,Singh,sophia.singh526@example.com,Seattle,USA,Small Business,2021-09-28,47
+CUST00426,Fatima,Singh,fatima.singh689@example.com,Toronto,Canada,Home Office,2023-08-05,64
+CUST00427,Vivaan,Wang,vivaan.wang764@example.com,Jaipur,India,Corporate,2021-01-07,55
+CUST00428,Arjun,Gupta,arjun.gupta718@example.com,Houston,USA,Consumer,2022-12-07,52
+CUST00429,Vihaan,Kumar,vihaan.kumar33@example.com,Dublin,Ireland,Home Office,2023-08-25,44
+CUST00430,Diya,Iyer,diya.iyer747@example.com,Paris,France,Small Business,2024-08-06,41
+CUST00431,David,Kim,david.kim385@example.com,Sao Paulo,Brazil,Consumer,2023-02-13,61
+CUST00432,Jose,Fernandes,jose.fernandes881@example.com,Chennai,India,Home Office,2024-08-31,25
+CUST00433,Diya,Fernandes,diya.fernandes131@example.com,Chicago,USA,Corporate,2023-12-20,18
+CUST00434,Mateo,Verma,mateo.verma690@example.com,Ahmedabad,India,Enterprise,2023-08-07,45
+CUST00435,Yuki,Chen,yuki.chen254@example.com,Seoul,South Korea,Small Business,2022-04-16,40
+CUST00436,Ishaan,Davis,ishaan.davis784@example.com,Pune,India,Consumer,2025-01-24,20
+CUST00437,Jose,Li,jose.li959@example.com,Sydney,Australia,Consumer,2025-04-18,33
+CUST00438,Aadhya,Kumar,aadhya.kumar35@example.com,Bengaluru,India,Small Business,2024-05-01,56
+CUST00439,Ana,Singh,ana.singh46@example.com,Kolkata,India,Small Business,2025-02-25,46
+CUST00440,Kiara,Fernandes,kiara.fernandes885@example.com,Pune,India,Consumer,2025-03-25,26
+CUST00441,Ming,Rodriguez,ming.rodriguez590@example.com,Kolkata,India,Home Office,2025-02-07,54
+CUST00442,Omar,Khan,omar.khan898@example.com,Kolkata,India,Corporate,2022-09-11,60
+CUST00443,Hana,Jones,hana.jones282@example.com,Houston,USA,Consumer,2022-09-08,53
+CUST00444,Ali,Johnson,ali.johnson438@example.com,Melbourne,Australia,Enterprise,2024-10-22,49
+CUST00445,Vihaan,Ali,vihaan.ali391@example.com,Melbourne,Australia,Enterprise,2024-10-06,38
+CUST00446,Luis,Li,luis.li308@example.com,Houston,USA,Small Business,2021-11-02,29
+CUST00447,Mateo,Fernandes,mateo.fernandes870@example.com,London,UK,Corporate,2022-05-09,37
+CUST00448,Sofia,Das,sofia.das937@example.com,Tokyo,Japan,Consumer,2023-08-07,53
+CUST00449,Emma,Li,emma.li138@example.com,Toronto,Canada,Small Business,2023-12-22,33
+CUST00450,Pari,Brown,pari.brown81@example.com,New York,USA,Small Business,2024-08-17,41
+CUST00451,Reyansh,Fernandes,reyansh.fernandes53@example.com,Berlin,Germany,Home Office,2022-01-26,42
+CUST00452,Ana,Schmidt,ana.schmidt895@example.com,Sydney,Australia,Consumer,2021-03-22,30
+CUST00453,Mateo,Muller,mateo.muller573@example.com,Berlin,Germany,Corporate,2024-10-07,48
+CUST00454,Aadhya,Ahmed,aadhya.ahmed217@example.com,Ahmedabad,India,Corporate,2021-02-01,65
+CUST00455,Sai,Silva,sai.silva713@example.com,Dublin,Ireland,Enterprise,2022-05-12,63
+CUST00456,Aadhya,Wang,aadhya.wang566@example.com,Dublin,Ireland,Home Office,2022-05-06,67
+CUST00457,Navya,Chen,navya.chen665@example.com,Seattle,USA,Home Office,2023-12-29,37
+CUST00458,Pari,Hassan,pari.hassan478@example.com,Manchester,UK,Consumer,2023-10-16,69
+CUST00459,Diego,Silva,diego.silva937@example.com,Paris,France,Corporate,2022-10-18,41
+CUST00460,James,Li,james.li885@example.com,Delhi,India,Corporate,2024-02-27,65
+CUST00461,Ishaan,Verma,ishaan.verma958@example.com,Jaipur,India,Enterprise,2024-02-08,55
+CUST00462,Diego,Li,diego.li201@example.com,Ahmedabad,India,Home Office,2021-11-09,32
+CUST00463,David,Bianchi,david.bianchi512@example.com,Seoul,South Korea,Enterprise,2022-05-19,59
+CUST00464,Ana,Ahmed,ana.ahmed842@example.com,Jaipur,India,Small Business,2025-04-13,64
+CUST00465,Maria,Santos,maria.santos751@example.com,Seattle,USA,Home Office,2021-12-11,28
+CUST00466,Krishna,Fernandes,krishna.fernandes939@example.com,London,UK,Enterprise,2022-01-12,59
+CUST00467,Vihaan,Pereira,vihaan.pereira968@example.com,Delhi,India,Consumer,2021-06-02,66
+CUST00468,Aarav,Li,aarav.li237@example.com,Chennai,India,Consumer,2024-07-15,63
+CUST00469,Ishaan,Sharma,ishaan.sharma467@example.com,Pune,India,Home Office,2023-11-02,21
+CUST00470,Layla,Weber,layla.weber676@example.com,Dublin,Ireland,Small Business,2023-09-17,19
+CUST00471,Aarav,Fernandes,aarav.fernandes13@example.com,Toronto,Canada,Consumer,2023-04-23,51
+CUST00472,Diego,Davis,diego.davis18@example.com,Toronto,Canada,Enterprise,2022-08-11,70
+CUST00473,Luis,Zhang,luis.zhang110@example.com,Tokyo,Japan,Consumer,2022-01-03,51
+CUST00474,Ishaan,Garcia,ishaan.garcia540@example.com,Pune,India,Home Office,2024-06-23,70
+CUST00475,John,Davis,john.davis81@example.com,Tokyo,Japan,Home Office,2023-03-24,43
+CUST00476,Isabella,Bianchi,isabella.bianchi232@example.com,Kolkata,India,Home Office,2024-11-28,61
+CUST00477,Reyansh,Gupta,reyansh.gupta389@example.com,Mumbai,India,Small Business,2023-04-11,53
+CUST00478,Wei,Singh,wei.singh720@example.com,Melbourne,Australia,Corporate,2021-01-20,23
+CUST00479,Jing,Zhang,jing.zhang340@example.com,Melbourne,Australia,Enterprise,2025-05-26,24
+CUST00480,Hana,Gupta,hana.gupta923@example.com,Kolkata,India,Enterprise,2022-03-09,48
+CUST00481,Anika,Gupta,anika.gupta701@example.com,Dublin,Ireland,Home Office,2021-06-02,52
+CUST00482,Fatima,Gupta,fatima.gupta17@example.com,Hyderabad,India,Corporate,2022-10-07,55
+CUST00483,Ishaan,Wang,ishaan.wang307@example.com,Dublin,Ireland,Corporate,2021-06-07,54
+CUST00484,Myra,Bianchi,myra.bianchi694@example.com,Seoul,South Korea,Enterprise,2023-03-08,39
+CUST00485,David,Iyer,david.iyer742@example.com,Tokyo,Japan,Consumer,2024-11-12,50
+CUST00486,Valentina,Ali,valentina.ali448@example.com,Delhi,India,Corporate,2021-07-20,22
+CUST00487,Robert,Schmidt,robert.schmidt978@example.com,Paris,France,Enterprise,2024-06-11,43
+CUST00488,Camila,Khan,camila.khan280@example.com,Lucknow,India,Small Business,2024-07-22,49
+CUST00489,Kiara,Ali,kiara.ali443@example.com,Toronto,Canada,Corporate,2023-02-08,61
+CUST00490,Ali,Chen,ali.chen634@example.com,Mumbai,India,Home Office,2025-05-01,69
+CUST00491,Myra,Kumar,myra.kumar158@example.com,Mumbai,India,Small Business,2022-07-03,63
+CUST00492,Carlos,Das,carlos.das325@example.com,Berlin,Germany,Home Office,2023-03-09,24
+CUST00493,Reyansh,Sharma,reyansh.sharma369@example.com,Ahmedabad,India,Home Office,2023-06-30,24
+CUST00494,Krishna,Patel,krishna.patel460@example.com,Hyderabad,India,Enterprise,2023-06-02,53
+CUST00495,Ming,Li,ming.li92@example.com,Bengaluru,India,Home Office,2021-02-23,53
+CUST00496,Reyansh,Schmidt,reyansh.schmidt333@example.com,Sydney,Australia,Small Business,2025-05-26,18
+CUST00497,Navya,Li,navya.li87@example.com,Chicago,USA,Enterprise,2025-05-15,33
+CUST00498,Fatima,Pereira,fatima.pereira390@example.com,Hyderabad,India,Corporate,2024-11-04,26
+CUST00499,Anika,Martinez,anika.martinez150@example.com,Jaipur,India,Consumer,2023-10-07,28
+CUST00500,Olivia,Davis,olivia.davis496@example.com,Houston,USA,Consumer,2022-09-06,41
+CUST00501,Pari,Garcia,pari.garcia508@example.com,Berlin,Germany,Enterprise,2024-07-04,57
+CUST00502,Saanvi,Park,saanvi.park312@example.com,Bengaluru,India,Consumer,2021-10-05,43
+CUST00503,Robert,Weber,robert.weber883@example.com,Chicago,USA,Home Office,2025-07-05,46
+CUST00504,Robert,Zhang,robert.zhang998@example.com,Seoul,South Korea,Enterprise,2024-08-26,26
+CUST00505,Riya,Khan,riya.khan206@example.com,Sydney,Australia,Small Business,2024-11-24,38
+CUST00506,Diya,Wang,diya.wang753@example.com,New York,USA,Small Business,2022-08-20,54
+CUST00507,Myra,Khan,myra.khan837@example.com,Chicago,USA,Small Business,2022-07-29,41
+CUST00508,Sai,Bianchi,sai.bianchi559@example.com,Pune,India,Corporate,2024-04-27,61
+CUST00509,Camila,Rossi,camila.rossi473@example.com,Lucknow,India,Corporate,2025-01-29,46
+CUST00510,Navya,Kumar,navya.kumar815@example.com,Seoul,South Korea,Small Business,2025-06-18,61
+CUST00511,Jing,Iyer,jing.iyer248@example.com,Melbourne,Australia,Home Office,2022-09-13,60
+CUST00512,Ishaan,Zhang,ishaan.zhang76@example.com,Tokyo,Japan,Small Business,2023-02-12,56
+CUST00513,Wei,Muller,wei.muller519@example.com,Chicago,USA,Small Business,2023-12-31,52
+CUST00514,Aditya,Hassan,aditya.hassan609@example.com,Singapore,Singapore,Consumer,2024-01-05,24
+CUST00515,Camila,Garcia,camila.garcia364@example.com,Dubai,UAE,Corporate,2024-09-23,59
+CUST00516,Layla,Gupta,layla.gupta694@example.com,Vancouver,Canada,Small Business,2024-08-14,66
+CUST00517,Robert,Zhang,robert.zhang101@example.com,Bengaluru,India,Home Office,2021-01-22,32
+CUST00518,Ming,Pereira,ming.pereira705@example.com,Toronto,Canada,Enterprise,2024-04-03,32
+CUST00519,Sophia,Hassan,sophia.hassan791@example.com,Chicago,USA,Enterprise,2023-08-07,62
+CUST00520,Ming,Das,ming.das495@example.com,Los Angeles,USA,Consumer,2021-02-20,36
+CUST00521,Emma,Patel,emma.patel146@example.com,Bengaluru,India,Home Office,2025-02-04,37
+CUST00522,Robert,Park,robert.park534@example.com,Tokyo,Japan,Small Business,2022-02-28,40
+CUST00523,Wei,Reddy,wei.reddy714@example.com,Seattle,USA,Small Business,2025-01-18,38
+CUST00524,Arjun,Martinez,arjun.martinez118@example.com,Delhi,India,Consumer,2024-12-26,39
+CUST00525,Maria,Reddy,maria.reddy169@example.com,Dubai,UAE,Corporate,2025-06-27,51
+CUST00526,Diya,Rossi,diya.rossi574@example.com,Hyderabad,India,Small Business,2022-11-09,47
+CUST00527,Kiara,Wang,kiara.wang191@example.com,Melbourne,Australia,Small Business,2022-01-13,43
+CUST00528,Vivaan,Weber,vivaan.weber461@example.com,Cape Town,South Africa,Enterprise,2022-02-09,45
+CUST00529,David,Sharma,david.sharma211@example.com,Singapore,Singapore,Home Office,2022-03-16,66
+CUST00530,Sofia,Kumar,sofia.kumar819@example.com,Vancouver,Canada,Enterprise,2021-07-28,29
+CUST00531,Michael,Khan,michael.khan117@example.com,Pune,India,Home Office,2023-07-27,60
+CUST00532,Jing,Pereira,jing.pereira612@example.com,Melbourne,Australia,Small Business,2022-10-04,57
+CUST00533,William,Muller,william.muller361@example.com,Bengaluru,India,Small Business,2022-12-14,57
+CUST00534,Diya,Martinez,diya.martinez605@example.com,Dublin,Ireland,Consumer,2024-06-12,61
+CUST00535,Krishna,Khan,krishna.khan313@example.com,Bengaluru,India,Consumer,2022-05-04,29
+CUST00536,Michael,Das,michael.das429@example.com,Manchester,UK,Enterprise,2023-03-07,26
+CUST00537,Fatima,Chen,fatima.chen499@example.com,Houston,USA,Enterprise,2022-01-16,62
+CUST00538,Maria,Johnson,maria.johnson502@example.com,Toronto,Canada,Home Office,2021-12-08,26
+CUST00539,Diya,Khan,diya.khan635@example.com,Seoul,South Korea,Consumer,2023-07-13,40
+CUST00540,Aarav,Santos,aarav.santos835@example.com,Chennai,India,Small Business,2022-02-04,53
+CUST00541,Ming,Santos,ming.santos504@example.com,Houston,USA,Small Business,2024-11-03,63
+CUST00542,Sophia,Santos,sophia.santos579@example.com,Hyderabad,India,Consumer,2021-06-19,68
+CUST00543,Mateo,Jones,mateo.jones282@example.com,Ahmedabad,India,Corporate,2021-03-08,52
+CUST00544,Navya,Smith,navya.smith580@example.com,Paris,France,Small Business,2023-07-26,53
+CUST00545,Ming,Nair,ming.nair275@example.com,Vancouver,Canada,Enterprise,2021-08-22,70
+CUST00546,Michael,Fernandes,michael.fernandes43@example.com,Seoul,South Korea,Small Business,2025-03-30,52
+CUST00547,Aadhya,Zhang,aadhya.zhang850@example.com,Bengaluru,India,Corporate,2025-02-16,37
+CUST00548,Aditya,Kim,aditya.kim883@example.com,Jaipur,India,Consumer,2022-12-15,46
+CUST00549,Sai,Garcia,sai.garcia603@example.com,Pune,India,Home Office,2025-02-19,63
+CUST00550,Layla,Zhang,layla.zhang143@example.com,Hyderabad,India,Corporate,2024-06-15,70
+CUST00551,Aadhya,Singh,aadhya.singh546@example.com,Vancouver,Canada,Home Office,2022-12-20,56
+CUST00552,Yuki,Smith,yuki.smith300@example.com,New York,USA,Home Office,2024-12-12,54
+CUST00553,Anika,Costa,anika.costa835@example.com,Cape Town,South Africa,Consumer,2024-10-23,26
+CUST00554,Mateo,Li,mateo.li284@example.com,Dublin,Ireland,Corporate,2021-05-02,62
+CUST00555,Krishna,Garcia,krishna.garcia330@example.com,Chennai,India,Corporate,2024-12-27,66
+CUST00556,Ana,Wang,ana.wang592@example.com,London,UK,Home Office,2021-10-19,58
+CUST00557,Emma,Chen,emma.chen649@example.com,Seattle,USA,Consumer,2021-06-04,43
+CUST00558,Ming,Davis,ming.davis466@example.com,Singapore,Singapore,Small Business,2023-01-26,38
+CUST00559,Ali,Sharma,ali.sharma868@example.com,Sao Paulo,Brazil,Consumer,2025-05-05,64
+CUST00560,Isabella,Ali,isabella.ali815@example.com,Sao Paulo,Brazil,Enterprise,2021-05-10,43
+CUST00561,Aadhya,Zhang,aadhya.zhang507@example.com,Seoul,South Korea,Home Office,2022-03-10,38
+CUST00562,Navya,Ahmed,navya.ahmed134@example.com,Toronto,Canada,Enterprise,2024-03-29,49
+CUST00563,Robert,Singh,robert.singh642@example.com,Delhi,India,Small Business,2021-07-23,19
+CUST00564,Sai,Smith,sai.smith1@example.com,Seattle,USA,Small Business,2023-07-24,30
+CUST00565,Luis,Iyer,luis.iyer310@example.com,Cape Town,South Africa,Corporate,2024-08-24,35
+CUST00566,Reyansh,Hassan,reyansh.hassan381@example.com,Jaipur,India,Corporate,2021-06-18,21
+CUST00567,William,Martinez,william.martinez774@example.com,Berlin,Germany,Corporate,2024-12-03,45
+CUST00568,Maria,Patel,maria.patel2@example.com,Singapore,Singapore,Corporate,2021-07-14,48
+CUST00569,Arjun,Iyer,arjun.iyer532@example.com,Vancouver,Canada,Small Business,2022-04-09,18
+CUST00570,Aarav,Ahmed,aarav.ahmed881@example.com,Seoul,South Korea,Small Business,2021-09-04,62
+CUST00571,Krishna,Silva,krishna.silva393@example.com,Mumbai,India,Consumer,2022-04-14,64
+CUST00572,Muhammad,Reddy,muhammad.reddy903@example.com,New York,USA,Home Office,2023-01-23,26
+CUST00573,David,Iyer,david.iyer147@example.com,Melbourne,Australia,Consumer,2024-10-18,51
+CUST00574,Fatima,Sharma,fatima.sharma169@example.com,Sydney,Australia,Small Business,2024-08-24,40
+CUST00575,Diego,Brown,diego.brown156@example.com,Melbourne,Australia,Small Business,2025-03-13,57
+CUST00576,Ana,Kim,ana.kim89@example.com,Sao Paulo,Brazil,Consumer,2022-03-21,26
+CUST00577,Mateo,Nair,mateo.nair394@example.com,Vancouver,Canada,Home Office,2025-02-04,45
+CUST00578,James,Iyer,james.iyer661@example.com,Kolkata,India,Consumer,2022-07-22,33
+CUST00579,Sara,Schmidt,sara.schmidt623@example.com,Sydney,Australia,Home Office,2025-01-16,67
+CUST00580,Luis,Verma,luis.verma897@example.com,Sao Paulo,Brazil,Home Office,2024-09-10,31
+CUST00581,Hana,Schmidt,hana.schmidt766@example.com,Manchester,UK,Small Business,2022-01-22,36
+CUST00582,Maria,Singh,maria.singh978@example.com,Tokyo,Japan,Corporate,2025-06-14,49
+CUST00583,David,Nair,david.nair654@example.com,Kolkata,India,Enterprise,2023-10-21,22
+CUST00584,Hana,Sharma,hana.sharma136@example.com,Los Angeles,USA,Small Business,2022-10-11,54
+CUST00585,Emma,Hassan,emma.hassan177@example.com,Toronto,Canada,Small Business,2024-10-30,67
+CUST00586,Arjun,Verma,arjun.verma15@example.com,Vancouver,Canada,Home Office,2021-05-19,31
+CUST00587,Aditya,Singh,aditya.singh519@example.com,Tokyo,Japan,Home Office,2023-03-27,58
+CUST00588,Sofia,Costa,sofia.costa434@example.com,Paris,France,Small Business,2023-05-01,23
+CUST00589,Carlos,Fernandes,carlos.fernandes157@example.com,Toronto,Canada,Home Office,2024-06-15,23
+CUST00590,Riya,Patel,riya.patel998@example.com,Manchester,UK,Corporate,2022-02-21,52
+CUST00591,James,Wang,james.wang782@example.com,Vancouver,Canada,Consumer,2024-07-23,37
+CUST00592,Luis,Zhang,luis.zhang60@example.com,Berlin,Germany,Corporate,2022-05-04,23
+CUST00593,Olivia,Nair,olivia.nair624@example.com,Seattle,USA,Consumer,2024-06-07,37
+CUST00594,Jose,Johnson,jose.johnson725@example.com,Bengaluru,India,Corporate,2021-01-26,62
+CUST00595,Aarav,Smith,aarav.smith536@example.com,London,UK,Enterprise,2022-12-12,68
+CUST00596,Diego,Miller,diego.miller130@example.com,Hyderabad,India,Home Office,2023-02-01,64
+CUST00597,Sai,Verma,sai.verma279@example.com,New York,USA,Enterprise,2023-05-30,22
+CUST00598,Pari,Bianchi,pari.bianchi509@example.com,Melbourne,Australia,Small Business,2021-06-07,50
+CUST00599,Michael,Singh,michael.singh171@example.com,London,UK,Home Office,2024-03-06,28
+CUST00600,Pari,Reddy,pari.reddy691@example.com,Cape Town,South Africa,Consumer,2024-03-21,32

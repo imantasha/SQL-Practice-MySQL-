@@ -1,0 +1,218 @@
+product_id,product_name,category,sub_category,unit_price,cost_price,stock_quantity
+PROD0001,Zenith Laptop,Electronics,Laptop,41442.75,26449.44,467
+PROD0002,Nova Laptop,Electronics,Laptop,57550.63,35998.51,461
+PROD0003,Everest Laptop,Electronics,Laptop,5634.76,3278.45,283
+PROD0004,Pulse Laptop,Electronics,Laptop,37354.57,25517.5,279
+PROD0005,Orion Laptop,Electronics,Laptop,61197.85,30621.3,336
+PROD0006,Drift Smartphone,Electronics,Smartphone,68146.97,38840.8,22
+PROD0007,Urban Smartphone,Electronics,Smartphone,73820.04,48669.84,201
+PROD0008,Drift Smartphone,Electronics,Smartphone,7374.19,5220.74,167
+PROD0009,Bloom Smartphone,Electronics,Smartphone,26467.53,15311.69,61
+PROD0010,Drift Headphones,Electronics,Headphones,29625.56,19974.13,20
+PROD0011,Urban Headphones,Electronics,Headphones,18379.13,9332.38,207
+PROD0012,Pulse Headphones,Electronics,Headphones,68586.2,36534.42,421
+PROD0013,Pulse Headphones,Electronics,Headphones,32945.67,23906.17,227
+PROD0014,Vertex Headphones,Electronics,Headphones,65029.95,45873.51,202
+PROD0015,Nimbus Smartwatch,Electronics,Smartwatch,3814.36,2495.52,331
+PROD0016,Crest Smartwatch,Electronics,Smartwatch,24665.76,13869.23,410
+PROD0017,Orion Smartwatch,Electronics,Smartwatch,44177.05,26377.91,92
+PROD0018,Nimbus Smartwatch,Electronics,Smartwatch,3545.94,2659.11,498
+PROD0019,Vertex Tablet,Electronics,Tablet,9360.55,5510.56,429
+PROD0020,Orion Tablet,Electronics,Tablet,79336.04,58461.91,288
+PROD0021,Zenith Tablet,Electronics,Tablet,12655.03,7063.48,112
+PROD0022,Orion Camera,Electronics,Camera,42826.21,22050.74,75
+PROD0023,Vertex Camera,Electronics,Camera,47548.82,30740.51,172
+PROD0024,Crest Camera,Electronics,Camera,25188.56,16961.73,475
+PROD0025,Drift Speaker,Electronics,Speaker,63278.86,46647.56,200
+PROD0026,Nova Speaker,Electronics,Speaker,68284.42,50132.51,72
+PROD0027,Drift Speaker,Electronics,Speaker,27496.72,19843.38,228
+PROD0028,Vertex Speaker,Electronics,Speaker,2394.56,1777.42,452
+PROD0029,Pulse Speaker,Electronics,Speaker,34000.5,18382.85,37
+PROD0030,Nova Monitor,Electronics,Monitor,24650.33,14407.81,314
+PROD0031,Pulse Monitor,Electronics,Monitor,71618.25,43137.1,283
+PROD0032,Urban Monitor,Electronics,Monitor,58179.99,29882.77,1
+PROD0033,Bloom Keyboard,Electronics,Keyboard,8378.83,5956.86,157
+PROD0034,Urban Keyboard,Electronics,Keyboard,63112.81,38589.94,134
+PROD0035,Crest Keyboard,Electronics,Keyboard,36019.62,21737.72,387
+PROD0036,Pulse Keyboard,Electronics,Keyboard,47793.53,29587.33,40
+PROD0037,Bloom Mouse,Electronics,Mouse,72368.01,39311.73,85
+PROD0038,Nimbus Mouse,Electronics,Mouse,77814.94,43924.32,466
+PROD0039,Zenith Mouse,Electronics,Mouse,58577.59,40807.35,319
+PROD0040,Nova Mouse,Electronics,Mouse,47624.72,30511.78,51
+PROD0041,Vertex Office Chair,Furniture,Office Chair,39749.95,21304.51,311
+PROD0042,Orion Office Chair,Furniture,Office Chair,18795.33,9492.74,418
+PROD0043,Drift Office Chair,Furniture,Office Chair,14819.58,9051.47,422
+PROD0044,Crest Office Chair,Furniture,Office Chair,33121.41,23741.34,420
+PROD0045,Pulse Bookshelf,Furniture,Bookshelf,8162.99,5867.52,102
+PROD0046,Solace Bookshelf,Furniture,Bookshelf,12127.67,8862.52,348
+PROD0047,Everest Bookshelf,Furniture,Bookshelf,17514.04,12036.36,352
+PROD0048,Everest Study Table,Furniture,Study Table,18131.58,12019.36,262
+PROD0049,Everest Study Table,Furniture,Study Table,35377.3,23069.04,482
+PROD0050,Solace Study Table,Furniture,Study Table,43555.67,27447.02,319
+PROD0051,Solace Sofa,Furniture,Sofa,1521.82,802.04,32
+PROD0052,Crest Sofa,Furniture,Sofa,13309.97,9202.09,460
+PROD0053,Everest Sofa,Furniture,Sofa,38750.41,21888.43,214
+PROD0054,Solace Sofa,Furniture,Sofa,33468.87,23301.84,464
+PROD0055,Drift Bed Frame,Furniture,Bed Frame,14348.53,10073.9,390
+PROD0056,Orion Bed Frame,Furniture,Bed Frame,42675.24,25303.03,299
+PROD0057,Crest Bed Frame,Furniture,Bed Frame,38483.17,20394.31,348
+PROD0058,Bloom Bed Frame,Furniture,Bed Frame,14267.98,7644.87,441
+PROD0059,Urban Bed Frame,Furniture,Bed Frame,35317.62,22747.01,81
+PROD0060,Crest Wardrobe,Furniture,Wardrobe,35353.16,19439.06,191
+PROD0061,Orion Wardrobe,Furniture,Wardrobe,40269.88,23276.92,52
+PROD0062,Orion Wardrobe,Furniture,Wardrobe,26983.78,16417.37,351
+PROD0063,Pulse Wardrobe,Furniture,Wardrobe,16211.7,9015.01,67
+PROD0064,Crest Dining Table,Furniture,Dining Table,27028.55,17724.88,304
+PROD0065,Bloom Dining Table,Furniture,Dining Table,30194.28,20395.24,105
+PROD0066,Nova Dining Table,Furniture,Dining Table,28807.64,18088.21,316
+PROD0067,Vertex Coffee Table,Furniture,Coffee Table,35572.49,20412.84,20
+PROD0068,Nimbus Coffee Table,Furniture,Coffee Table,41073.62,27406.6,76
+PROD0069,Everest Coffee Table,Furniture,Coffee Table,35343.25,21773.89,51
+PROD0070,Zenith T-Shirt,Clothing,T-Shirt,1812.9,1292.6,339
+PROD0071,Nova T-Shirt,Clothing,T-Shirt,4057.02,2435.0,492
+PROD0072,Drift T-Shirt,Clothing,T-Shirt,3197.59,1645.68,482
+PROD0073,Solace Jeans,Clothing,Jeans,2327.23,1675.58,372
+PROD0074,Drift Jeans,Clothing,Jeans,4165.67,2987.13,268
+PROD0075,Nova Jeans,Clothing,Jeans,2673.05,1625.78,372
+PROD0076,Urban Jacket,Clothing,Jacket,2993.9,1875.35,240
+PROD0077,Solace Jacket,Clothing,Jacket,614.43,365.38,418
+PROD0078,Solace Jacket,Clothing,Jacket,3665.3,1848.93,206
+PROD0079,Solace Sneakers,Clothing,Sneakers,3768.82,2517.07,486
+PROD0080,Orion Sneakers,Clothing,Sneakers,3729.67,2532.37,58
+PROD0081,Nova Sneakers,Clothing,Sneakers,309.23,158.15,84
+PROD0082,Pulse Sneakers,Clothing,Sneakers,3418.55,2099.88,400
+PROD0083,Solace Formal Shirt,Clothing,Formal Shirt,2040.78,1321.05,258
+PROD0084,Urban Formal Shirt,Clothing,Formal Shirt,2527.53,1700.91,88
+PROD0085,Drift Formal Shirt,Clothing,Formal Shirt,1927.1,1330.85,140
+PROD0086,Drift Dress,Clothing,Dress,2201.95,1402.54,160
+PROD0087,Drift Dress,Clothing,Dress,2956.85,1958.98,490
+PROD0088,Drift Dress,Clothing,Dress,2974.89,1797.93,382
+PROD0089,Zenith Dress,Clothing,Dress,3985.4,2191.88,384
+PROD0090,Bloom Sweater,Clothing,Sweater,915.0,480.94,444
+PROD0091,Drift Sweater,Clothing,Sweater,1242.09,827.39,474
+PROD0092,Bloom Sweater,Clothing,Sweater,3610.07,2554.11,466
+PROD0093,Urban Shorts,Clothing,Shorts,3471.45,2589.23,38
+PROD0094,Everest Shorts,Clothing,Shorts,2458.16,1232.55,238
+PROD0095,Bloom Shorts,Clothing,Shorts,945.55,659.5,281
+PROD0096,Crest Shorts,Clothing,Shorts,1635.01,982.4,178
+PROD0097,Solace Shorts,Clothing,Shorts,1693.91,850.68,342
+PROD0098,Nova Mixer Grinder,Home & Kitchen,Mixer Grinder,9468.52,5647.68,276
+PROD0099,Solace Mixer Grinder,Home & Kitchen,Mixer Grinder,11649.22,6385.26,263
+PROD0100,Pulse Mixer Grinder,Home & Kitchen,Mixer Grinder,11690.45,8373.14,217
+PROD0101,Solace Mixer Grinder,Home & Kitchen,Mixer Grinder,13228.1,7122.52,235
+PROD0102,Vertex Air Fryer,Home & Kitchen,Air Fryer,11995.54,7350.64,207
+PROD0103,Drift Air Fryer,Home & Kitchen,Air Fryer,8208.58,5845.03,183
+PROD0104,Solace Air Fryer,Home & Kitchen,Air Fryer,4799.72,2436.84,80
+PROD0105,Drift Air Fryer,Home & Kitchen,Air Fryer,12043.28,7972.47,490
+PROD0106,Everest Air Fryer,Home & Kitchen,Air Fryer,2199.23,1215.11,379
+PROD0107,Urban Cookware Set,Home & Kitchen,Cookware Set,7883.27,5264.01,290
+PROD0108,Nova Cookware Set,Home & Kitchen,Cookware Set,14916.97,8194.7,297
+PROD0109,Bloom Cookware Set,Home & Kitchen,Cookware Set,9969.91,5803.35,337
+PROD0110,Pulse Cookware Set,Home & Kitchen,Cookware Set,5721.6,3879.53,328
+PROD0111,Crest Cookware Set,Home & Kitchen,Cookware Set,11101.4,5852.75,330
+PROD0112,Zenith Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,13412.94,9555.33,323
+PROD0113,Bloom Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,9014.53,5980.93,76
+PROD0114,Crest Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,11105.11,5581.96,122
+PROD0115,Solace Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,2821.32,2025.84,74
+PROD0116,Pulse Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,3594.76,2262.8,405
+PROD0117,Everest Water Bottle,Home & Kitchen,Water Bottle,982.61,696.39,134
+PROD0118,Pulse Water Bottle,Home & Kitchen,Water Bottle,5926.37,3728.24,180
+PROD0119,Crest Water Bottle,Home & Kitchen,Water Bottle,13352.71,8824.4,108
+PROD0120,Solace Water Bottle,Home & Kitchen,Water Bottle,12327.54,7639.42,107
+PROD0121,Nimbus Bedsheet Set,Home & Kitchen,Bedsheet Set,1029.91,552.77,85
+PROD0122,Everest Bedsheet Set,Home & Kitchen,Bedsheet Set,9150.62,6742.3,110
+PROD0123,Urban Bedsheet Set,Home & Kitchen,Bedsheet Set,2890.28,1895.45,261
+PROD0124,Pulse Bedsheet Set,Home & Kitchen,Bedsheet Set,7020.66,4427.78,465
+PROD0125,Crest Bedsheet Set,Home & Kitchen,Bedsheet Set,1805.96,1242.67,47
+PROD0126,Zenith Yoga Mat,Sports,Yoga Mat,8455.18,5702.26,219
+PROD0127,Nova Yoga Mat,Sports,Yoga Mat,5404.17,3276.94,130
+PROD0128,Zenith Yoga Mat,Sports,Yoga Mat,7921.71,5105.51,60
+PROD0129,Everest Yoga Mat,Sports,Yoga Mat,3827.39,2731.78,216
+PROD0130,Crest Dumbbell Set,Sports,Dumbbell Set,3865.75,2400.4,157
+PROD0131,Urban Dumbbell Set,Sports,Dumbbell Set,7808.52,4100.02,260
+PROD0132,Nova Dumbbell Set,Sports,Dumbbell Set,6434.41,4541.5,241
+PROD0133,Nimbus Dumbbell Set,Sports,Dumbbell Set,950.35,631.07,146
+PROD0134,Crest Dumbbell Set,Sports,Dumbbell Set,5852.55,3344.74,17
+PROD0135,Everest Cricket Bat,Sports,Cricket Bat,3397.72,2361.14,180
+PROD0136,Crest Cricket Bat,Sports,Cricket Bat,6406.69,4668.89,178
+PROD0137,Crest Cricket Bat,Sports,Cricket Bat,4229.14,2227.13,37
+PROD0138,Bloom Cricket Bat,Sports,Cricket Bat,2504.82,1857.36,288
+PROD0139,Everest Cricket Bat,Sports,Cricket Bat,6213.95,3211.92,324
+PROD0140,Nova Football,Sports,Football,4769.41,2860.37,383
+PROD0141,Solace Football,Sports,Football,3343.46,2449.3,97
+PROD0142,Urban Football,Sports,Football,2059.31,1430.68,61
+PROD0143,Bloom Running Shoes,Sports,Running Shoes,4987.9,3613.88,451
+PROD0144,Zenith Running Shoes,Sports,Running Shoes,8265.06,5218.84,216
+PROD0145,Bloom Running Shoes,Sports,Running Shoes,6255.46,3621.37,4
+PROD0146,Nimbus Cycling Helmet,Sports,Cycling Helmet,7791.12,4563.84,94
+PROD0147,Nimbus Cycling Helmet,Sports,Cycling Helmet,7725.35,5187.6,416
+PROD0148,Zenith Cycling Helmet,Sports,Cycling Helmet,3582.73,1949.55,255
+PROD0149,Vertex Fiction Novel,Books,Fiction Novel,465.04,244.02,83
+PROD0150,Everest Fiction Novel,Books,Fiction Novel,501.39,293.83,210
+PROD0151,Orion Fiction Novel,Books,Fiction Novel,831.59,483.38,261
+PROD0152,Orion Self-Help Book,Books,Self-Help Book,1154.42,698.95,313
+PROD0153,Solace Self-Help Book,Books,Self-Help Book,482.72,289.08,454
+PROD0154,Drift Self-Help Book,Books,Self-Help Book,584.69,326.64,128
+PROD0155,Zenith Self-Help Book,Books,Self-Help Book,216.98,150.31,268
+PROD0156,Urban Biography,Books,Biography,390.82,208.24,429
+PROD0157,Crest Biography,Books,Biography,640.55,391.51,496
+PROD0158,Crest Biography,Books,Biography,1071.16,618.5,177
+PROD0159,Urban Textbook,Books,Textbook,468.75,274.67,240
+PROD0160,Zenith Textbook,Books,Textbook,954.16,607.85,96
+PROD0161,Vertex Textbook,Books,Textbook,559.21,367.03,264
+PROD0162,Nova Textbook,Books,Textbook,930.07,507.45,148
+PROD0163,Urban Cookbook,Books,Cookbook,170.37,126.6,144
+PROD0164,Bloom Cookbook,Books,Cookbook,668.26,500.85,237
+PROD0165,Urban Cookbook,Books,Cookbook,429.83,235.57,430
+PROD0166,Zenith Comic Book,Books,Comic Book,959.79,527.69,376
+PROD0167,Zenith Comic Book,Books,Comic Book,477.71,327.8,281
+PROD0168,Solace Comic Book,Books,Comic Book,1056.84,643.13,7
+PROD0169,Nimbus Comic Book,Books,Comic Book,194.09,104.57,394
+PROD0170,Urban Face Cream,Beauty,Face Cream,351.18,237.16,405
+PROD0171,Zenith Face Cream,Beauty,Face Cream,3137.52,2109.39,183
+PROD0172,Crest Face Cream,Beauty,Face Cream,1791.81,1051.64,374
+PROD0173,Orion Shampoo,Beauty,Shampoo,1140.5,699.72,397
+PROD0174,Solace Shampoo,Beauty,Shampoo,949.93,704.65,419
+PROD0175,Crest Shampoo,Beauty,Shampoo,2297.03,1526.89,22
+PROD0176,Solace Shampoo,Beauty,Shampoo,2062.89,1284.1,319
+PROD0177,Nova Perfume,Beauty,Perfume,2346.76,1447.99,327
+PROD0178,Zenith Perfume,Beauty,Perfume,2909.2,1988.66,427
+PROD0179,Pulse Perfume,Beauty,Perfume,784.69,504.17,485
+PROD0180,Nova Perfume,Beauty,Perfume,1686.71,913.7,92
+PROD0181,Orion Perfume,Beauty,Perfume,3173.32,2256.91,211
+PROD0182,Bloom Lipstick,Beauty,Lipstick,3252.59,1990.18,203
+PROD0183,Pulse Lipstick,Beauty,Lipstick,172.01,122.8,11
+PROD0184,Bloom Lipstick,Beauty,Lipstick,2064.9,1216.05,70
+PROD0185,Nova Lipstick,Beauty,Lipstick,2056.37,1400.17,405
+PROD0186,Nimbus Lipstick,Beauty,Lipstick,2301.55,1370.31,399
+PROD0187,Nimbus Sunscreen,Beauty,Sunscreen,2730.81,1999.4,324
+PROD0188,Zenith Sunscreen,Beauty,Sunscreen,1833.05,1225.22,201
+PROD0189,Bloom Sunscreen,Beauty,Sunscreen,645.84,415.19,25
+PROD0190,Solace Hair Dryer,Beauty,Hair Dryer,2023.64,1300.86,287
+PROD0191,Solace Hair Dryer,Beauty,Hair Dryer,3245.86,1958.54,187
+PROD0192,Bloom Hair Dryer,Beauty,Hair Dryer,2214.34,1452.15,225
+PROD0193,Nimbus Hair Dryer,Beauty,Hair Dryer,526.45,385.19,444
+PROD0194,Pulse Hair Dryer,Beauty,Hair Dryer,1261.79,695.18,267
+PROD0195,Everest Notebook,Office Supplies,Notebook,1340.66,727.41,145
+PROD0196,Solace Notebook,Office Supplies,Notebook,1674.31,987.93,55
+PROD0197,Nimbus Notebook,Office Supplies,Notebook,822.87,520.78,95
+PROD0198,Drift Notebook,Office Supplies,Notebook,1250.34,674.25,177
+PROD0199,Zenith Pen Set,Office Supplies,Pen Set,2202.76,1621.31,485
+PROD0200,Solace Pen Set,Office Supplies,Pen Set,1550.5,1041.36,213
+PROD0201,Crest Pen Set,Office Supplies,Pen Set,389.51,261.37,103
+PROD0202,Nimbus Pen Set,Office Supplies,Pen Set,405.62,295.81,162
+PROD0203,Vertex Pen Set,Office Supplies,Pen Set,830.78,615.03,155
+PROD0204,Nimbus Stapler,Office Supplies,Stapler,114.19,74.7,310
+PROD0205,Nimbus Stapler,Office Supplies,Stapler,1280.7,790.43,332
+PROD0206,Everest Stapler,Office Supplies,Stapler,86.78,64.01,113
+PROD0207,Orion Stapler,Office Supplies,Stapler,1250.36,896.13,454
+PROD0208,Crest Desk Organizer,Office Supplies,Desk Organizer,1451.24,916.18,448
+PROD0209,Drift Desk Organizer,Office Supplies,Desk Organizer,1367.78,697.31,198
+PROD0210,Vertex Desk Organizer,Office Supplies,Desk Organizer,1180.3,677.03,470
+PROD0211,Drift Printer Paper,Office Supplies,Printer Paper,1484.35,944.94,201
+PROD0212,Drift Printer Paper,Office Supplies,Printer Paper,662.7,438.8,364
+PROD0213,Crest Printer Paper,Office Supplies,Printer Paper,991.01,647.15,81
+PROD0214,Drift Whiteboard,Office Supplies,Whiteboard,404.29,207.33,157
+PROD0215,Everest Whiteboard,Office Supplies,Whiteboard,1575.27,792.44,254
+PROD0216,Nova Whiteboard,Office Supplies,Whiteboard,1054.87,685.99,3
+PROD0217,Zenith Whiteboard,Office Supplies,Whiteboard,1650.53,885.25,16
