@@ -22,7 +22,7 @@ A relational dataset simulating a real e-commerce business, with **5 linked tabl
 
 Data files are in [`/data`](./data) as both `.xlsx` (original) and `.csv` (import-ready) formats.
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **MySQL** — database and query execution
 - **MySQL Workbench** — schema design, CSV import, and query development
@@ -38,32 +38,13 @@ sql-practice-portfolio/
 │   ├── employees.csv
 │   ├── orders.csv
 │   └── order_items.csv
-├── sql/
-│   ├── 01_basic_select_where.sql
-│   ├── 02_aggregates_groupby.sql
-│   ├── 03_joins.sql
-│   ├── 04_subqueries.sql
-│   ├── 05_window_functions.sql
-│   ├── 06_date_string_functions.sql
-│   ├── 07_case_statements.sql
-│   └── 08_business_analysis.sql
-├── screenshots/
-│   └── (query result screenshots)
+├── SQL_PRACTICE.sql
+│  
 └── README.md
 ```
 
-##  Progress
 
-- [x] Basic SELECT, WHERE, ORDER BY (Section 1)
-- [x] Aggregate functions, GROUP BY, HAVING (Section 2)
-- [ ] JOINs (Section 3)
-- [ ] Subqueries (Section 4)
-- [ ] Window functions (Section 5)
-- [ ] Date & string functions (Section 6)
-- [ ] CASE statements (Section 7)
-- [ ] Business analysis queries (Section 8)
 
-*20 of 60 practice queries completed so far — repo will be updated as I progress through JOINs, subqueries, and window functions.*
 
 ##  Sample Query
 
