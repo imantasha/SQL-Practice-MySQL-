@@ -56,7 +56,7 @@ GROUP BY category
 HAVING AVG(unit_price) > 5000
 ORDER BY avg_price DESC;
 ```
-
+ 
 ##  How to Reproduce
 
 1. Clone this repo.
